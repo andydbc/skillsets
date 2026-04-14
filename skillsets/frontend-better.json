@@ -16,6 +16,16 @@
       "skill": "make-interfaces-feel-better",
       "repo": "jakubkrehel/make-interfaces-feel-better",
       "source": "https://github.com/jakubkrehel/make-interfaces-feel-better"
+    },
+    {
+      "skill": "vercel-react-best-practices",
+      "repo": "vercel-labs/agent-skills",
+      "source": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices"
+    },
+    {
+      "skill": "shadcn",
+      "repo": "shadcn/ui",
+      "source": "https://skills.sh/shadcn/ui/shadcn"
     }
   ]
 }

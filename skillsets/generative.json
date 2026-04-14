@@ -1,0 +1,16 @@
+{
+  "name": "generative",
+  "description": "generative art but done better",
+  "skills": [
+    {
+      "skill": "algorithmic-art",
+      "repo": "anthropics/skills",
+      "source": "https://skills.sh/anthropics/skills/algorithmic-art"
+    },
+    {
+      "skill": "threejs-fundamentals",
+      "repo": "cloudai-x/threejs-skills",
+      "source": "https://skills.sh/cloudai-x/threejs-skills/threejs-fundamentals"
+    }
+  ]
+}
