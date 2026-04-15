@@ -1,7 +1,8 @@
 {
+  "$skillset": true,
   "name": "generative",
   "description": "generative art but done better",
-  "skills": [
+  "dependencies": [
     {
       "skill": "algorithmic-art",
       "repo": "anthropics/skills",

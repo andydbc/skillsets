@@ -1,0 +1,32 @@
+{
+  "$skillset": true,
+  "name": "code-better",
+  "description": "coding but done better",
+  "dependencies": [
+    {
+      "type": "plugin",
+      "name": "code-review",
+      "marketplace": "claude-plugins-official"
+    },
+    {
+      "type": "plugin",
+      "name": "code-simplifier",
+      "marketplace": "claude-plugins-official"
+    },
+    {
+      "skill": "composition-over-inheritance",
+      "repo": "yanko-belov/code-craft",
+      "source": "https://github.com/yanko-belov/code-craft"
+    },
+    {
+      "skill": "karpathy-guidelines",
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "source": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+      "type": "plugin",
+      "name": "superpowers",
+      "marketplace": "claude-plugins-official"
+    }
+  ]
+}
